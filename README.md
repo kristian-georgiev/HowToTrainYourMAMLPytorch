@@ -1,3 +1,6 @@
+# Meta-similarity
+We develop a new MAML-based meta-learning algorithm that leverages similarity measures between tasks.
+
 # How to train your MAML in Pytorch
 A replication of the paper ["How to train your MAML"](https://arxiv.org/abs/1810.09502), along with a replication of the original ["Model Agnostic Meta Learning"](https://arxiv.org/abs/1703.03400) (MAML) paper.
 
